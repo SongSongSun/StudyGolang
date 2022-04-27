@@ -6,5 +6,6 @@ func main() {
 	area, _ := calculateProps(10.8, 3.14)
 	fmt.Printf("area %f\n", area)
 	condition()*/
-	pool()
+	//pool()
+	sqlCreater()
 }
